@@ -1,0 +1,2 @@
+"""FinHire backend package."""
+
